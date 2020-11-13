@@ -1,0 +1,10 @@
+[package]
+name = "vulkan-raytracer"
+version = "0.1.0"
+authors = ["antlilja <liljaanton2001@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+vulkano = "*"
+vulkano-shaders = "*"
+png = "*"
